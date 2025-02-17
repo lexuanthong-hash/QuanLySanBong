@@ -1,7 +1,8 @@
 Tài Khoản 
 ha
 thong
-nghia dung
+nghia 
+dung
 
 Mật Khẩu 
 123456
